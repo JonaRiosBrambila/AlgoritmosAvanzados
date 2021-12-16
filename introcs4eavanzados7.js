@@ -36,4 +36,7 @@ console.log(student1Courses[2] + " " + student2Courses[1]);
 }
 else if(student1Courses[2]===student2Courses[2])
 {
-}}
+    console.log(student1Courses[2] + " " + student2Courses[2]);
+}
+}
+compare();
